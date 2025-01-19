@@ -41,7 +41,7 @@ function App() {
                   imagenes={week2Data.imagenes}
                 />}
               />
-              <Route path="/" element={
+              <Route path="Gabu-FantasyLEC/" element={
                 <div>
                   <h2>Bienvenido al Fantasy LEC</h2>
                   <p>Para ver los resultados de una semana, escriba en el buscador "/week-(Numero)".</p>
