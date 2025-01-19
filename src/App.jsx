@@ -2,7 +2,7 @@ import './App.css';
 import './assets/fonts/fonts.css';
 import ProfileRow from './components/ProfileRow';
 import Week from './components/Week';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 import lecImage from './assets/img/LEC.png';
 import gabuImage from './assets/img/GabuEsports.png';
