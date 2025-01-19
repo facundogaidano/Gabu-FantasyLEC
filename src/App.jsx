@@ -2,8 +2,8 @@ import { Outlet } from "react-router-dom";
 import './App.css';
 import './assets/fonts/fonts.css';
 import ProfileRow from './components/ProfileRow';
-import lecImage from './assets/img/LEC.png';
-import gabuImage from './assets/img/GabuEsports.png';
+import lecImage from './assets/LEC.png';
+import gabuImage from './assets/GabuEsports.png';
 import Leaderboard from './components/Leaderboard';
 
 export default function App() {
