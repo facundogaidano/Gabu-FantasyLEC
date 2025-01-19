@@ -1,7 +1,20 @@
 import week1 from '../assets/data/week1.json';
 import week2 from '../assets/data/week2.json';
 
-const mapVotesToImages = (votes, imagenes) => {
+const imagenes = {
+  "fnc": "/public/FNC.png",
+  "g2": "/public/G2.png",
+  "koi": "/public/KOI.png",
+  "rge": "/public/RGE.png",
+  "sk": "/public/SK.png",
+  "vit": "/public/VIT.png",
+  "gx": "/public/GX.png",
+  "th": "/public/HRT.png",
+  "kc": "/public/KC.png",
+  "bds": "/public/BDS.png"
+};
+
+const mapVotesToImages = (votes) => {
   return votes.map(dayVotes => dayVotes.map(vote => imagenes[vote]));
 };
 

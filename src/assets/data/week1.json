@@ -1,15 +1,15 @@
 {
   "imagenes": {
-    "fnc": "img/FNC.png",
-    "g2": "img/G2.png",
-    "koi": "img/KOI.png",
-    "rge": "img/RGE.png",
-    "sk": "img/SK.png",
-    "vit": "img/VIT.png",
-    "gx": "img/GX.png",
-    "th": "img/HRT.png",
-    "kc": "img/KC.png",
-    "bds": "img/BDS.png"
+    "fnc": "/public/FNC.png",
+    "g2": "/public/G2.png",
+    "koi": "/public/KOI.png",
+    "rge": "/public/RGE.png",
+    "sk": "/public/SK.png",
+    "vit": "/public/VIT.png",
+    "gx": "/public/GX.png",
+    "th": "/public/HRT.png",
+    "kc": "/public/KC.png",
+    "bds": "/public/BDS.png"
   },
   "players": [
     {
