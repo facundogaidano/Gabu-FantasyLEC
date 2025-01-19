@@ -1,0 +1,270 @@
+
+:root {
+  height: 100%;
+  background: 
+    linear-gradient(225deg, rgba(0,229,191,0.7) 0%, rgba(0,225,208,0.4009978991596639) 25%, rgba(0,221,221,0) 50%),
+    #050019;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: auto; /* Permite el desbordamiento en la página */
+}
+
+.App {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.lec-image {
+  min-height: 50px;
+  min-width: 150px;
+  padding-right: 24px;
+  padding-left: 5px;
+  margin-left: 91px;
+}
+
+.gabu-image {
+  min-height: 82px;
+  min-width: 240px;
+  padding-right: 24px;
+  padding-left: 5px;
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3px;
+  justify-content: space-around;
+}
+
+.day-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.day-column {
+  min-width: 300px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.column:first-child {
+  border-left: 1.5px solid #ccc;
+}
+
+.column > .cell:first-child {
+  border-top: 3px solid #ccc;
+}
+
+.column > .cell:last-child {
+  border-bottom: 3px solid #ccc;
+}
+
+.column:last-child {
+  border-right: 1.5px solid #ccc;
+}
+
+.cell {
+  flex: 1;
+  padding: 5px;
+  border: 1.5px solid #ccc;
+  min-width: 50px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: content-box;
+}
+
+img {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.gradient-overlay {
+  position: relative;
+}
+
+.gradient-overlay img {
+  display: block;
+}
+
+.gradient-overlay::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  pointer-events: none;
+}
+
+.profile {
+  padding: 0;
+  border-top: 3px solid #ccc;
+  border-bottom: 3px solid #ccc;;
+}
+
+.profile > img {
+  min-width: 60px;
+  min-height: 62.8px;
+}
+
+.profile:first-child {
+  border-left: 3px solid #ccc;;
+}
+
+.profile:last-child {
+  border-right: 3px solid #ccc;
+}
+
+.main-content {
+  display: flex;
+  overflow-x: auto;
+}
+
+.vs-columns {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.vs-column {
+  margin-bottom: 3px;
+  min-width: 100px
+}
+
+.vs-cell {
+  display: flex;
+  align-items: center;
+}
+
+.vs-text {
+  margin: 0 10px;
+  font-weight: bold;
+  color: #fff;
+  font-family: "Druk LEC Web Medium Cut";
+  font-size: 2rem;
+  border-top: 1.5px solid #ccc;
+  border-bottom: 1.5px solid #ccc;
+}
+
+.vs-cell > .cell {
+  flex: 1;
+  padding: 5px;
+  border-top: 1.5px solid #ccc;
+  border-bottom: 1.5px solid #ccc;
+  border-left: 0;
+  border-right: 0;
+  min-width: 50px;
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: content-box;
+}
+
+.vs-cell:first-child > .cell {
+  border-top: 3px solid #ccc;
+}
+
+.vs-cell:last-child > .cell {
+  border-bottom: 3px solid #ccc;
+}
+
+.match span {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.leaderboard {
+  margin-left: 20px; /* Ajusta el margen según sea necesario */
+  font-family: "Druk Medium Trial";
+  font-size: 1.8rem;
+}
+
+.leaderboard h2 {
+  margin-top: 0;
+  margin-bottom: 0px;
+
+}
+
+.leaderboard ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 0px;
+  margin-left: -20px;
+}
+
+.leaderboard li {
+  margin-bottom: 0px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  font-family: "Druk Wide Medium Trial";
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+.points {
+  margin-right: 10px; /* Ajusta el margen según sea necesario */
+  font-weight: bold;
+  font-family: "Druk Medium Trial";
+  font-size: 1.9rem;
+  padding: 0 5px;
+  background-color: #050019;
+  color: #fff;
+  min-width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.leaderboard-item {
+  margin: 5px 0;
+}
+
+.gold {
+  background-color: gold;
+  color: #050019;
+  padding-right: 10px;
+}
+
+.silver {
+  background-color: silver;
+  color: #050019;
+  padding-right: 10px;
+}
+
+.bronze {
+  background-color: #cd7f32;
+  padding-right: 10px;
+}

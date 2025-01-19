@@ -1,0 +1,55 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2016 Schwartzco Inc.
+	
+*/
+
+
+.DrukLEC-MediumCut-Web {
+    font-family: "Druk LEC Web Medium Cut";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.DrukWideLEC-MediumCut-Web {
+    font-family: "Druk Wide LEC Web Med Cut";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+	font-family: "Druk LEC Web Medium Cut";
+	src: url("DrukLEC-MediumCut-Web.woff2") format("woff2"),
+		     url("DrukLEC-MediumCut-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Druk Wide LEC Web Med Cut";
+	src: url("DrukWideLEC-MediumCut-Web.woff2") format("woff2"),
+		     url("DrukWideLEC-MediumCut-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Druk Medium Trial";
+	src: url("./Druk-Medium-Trial.otf") format("opentype");
+	font-style: normal;
+	}
+
+	
+@font-face {
+	font-family: "Druk Wide Medium Trial";
+	src: url("./DrukWide-Medium-Trial.otf") format("opentype");
+	font-style: normal;
+	}

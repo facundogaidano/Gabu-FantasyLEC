@@ -1,0 +1,89 @@
+{
+  "imagenes": {
+    "fnc": "img/FNC.png",
+    "g2": "img/G2.png",
+    "koi": "img/KOI.png",
+    "rge": "img/RGE.png",
+    "sk": "img/SK.png",
+    "vit": "img/VIT.png",
+    "gx": "img/GX.png",
+    "th": "img/HRT.png",
+    "kc": "img/KC.png",
+    "bds": "img/BDS.png"
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "MrFakon",
+      "votes": [["th", "vit", "gx", "fnc", "g2"], ["sk", "gx", "kc", "g2", "fnc"], ["bds", "fnc", "koi", "g2", "kc"]]
+    },
+    {
+      "id": 2,
+      "name": "TakRiuto",
+      "votes": [["rge", "vit", "sk", "fnc", "g2"], ["th", "rge", "koi", "g2", "fnc"], ["rge", "fnc", "vit", "g2", "gx"]]
+    },
+    {
+      "id": 3,
+      "name": "Isehnia",
+      "votes": [["rge", "bds", "sk", "fnc", "g2"], ["th", "rge", "kc", "g2", "fnc"], ["bds", "fnc", "koi", "g2", "kc"]]
+    },
+    {
+      "id": 4,
+      "name": "Spike",
+      "votes": [["th", "bds", "sk", "fnc", "g2"], ["sk", "gx", "koi", "g2", "fnc"], ["bds", "fnc", "koi", "g2", "kc"]]
+    },
+    {
+      "id": 5,
+      "name": "Damian",
+      "votes": [["rge", "bds", "gx", "fnc", "g2"], ["th", "rge", "kc", "g2", "fnc"], ["bds", "fnc", "koi", "g2", "kc"]]
+    },
+    {
+      "id": 6,
+      "name": "Raledro",
+      "votes": [["rge", "vit", "sk", "fnc", "g2"], ["sk", "rge", "koi", "g2", "fnc"], ["rge", "fnc", "koi", "g2", "kc"]]
+    },
+    {
+      "id": 7,
+      "name": "Ursus",
+      "votes": [["th", "vit", "gx", "koi", "g2"], ["th", "gx", "koi", "g2", "vit"], ["rge", "th", "vit", "g2", "gx"]]
+    },
+    {
+      "id": 8,
+      "name": "Papelon",
+      "votes": [["th", "bds", "sk", "fnc", "g2"], ["th", "gx", "koi", "g2", "fnc"], ["bds", "fnc", "vit", "g2", "kc"]]
+    },
+    {
+      "id": 9,
+      "name": "Devmon",
+      "votes": [["rge", "bds", "gx", "fnc", "g2"], ["sk", "gx", "kc", "g2", "fnc"], ["bds", "fnc", "vit", "g2", "kc"]]
+    },
+    {
+      "id": 10,
+      "name": "Eduamen",
+      "votes": [["th", "bds", "gx", "koi", "g2"], ["th", "rge", "koi", "g2", "fnc"], ["rge", "fnc", "koi", "g2", "gx"]]
+    },
+    {
+      "id": 11,
+      "name": "Joe",
+      "votes": [["th", "bds", "sk", "fnc", "g2"], ["sk", "gx", "kc", "bds", "fnc"], ["bds", "fnc", "vit", "g2", "kc"]]
+    },
+    {
+      "id": 12,
+      "name": "Carlos",
+      "votes": [["th", "bds", "sk", "fnc", "g2"], ["sk", "gx", "kc", "g2", "fnc"], ["bds", "fnc", "vit", "g2", "kc"]]
+    }
+  ],
+  "matches": [
+    [["img/HRT.png", "img/RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
+    [["img/HRT.png", "img/SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
+    [["img/BDS.png", "img/RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
+  ],
+  "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
+  "resultsDay2": ["1-0","0-1"],
+  "resultsDay3": [],
+  "losers": [
+    ["img/HRT.png", "img/BDS.png", "img/SK.png", "img/FNC.png", "img/G2.png"],
+    ["img/SK.png", "img/RGE.png"],
+    []
+  ]
+}
