@@ -74,9 +74,9 @@
     }
   ],
   "matches": [
-    [["img/HRT.png", "img/RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
-    [["img/HRT.png", "img/SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
-    [["img/BDS.png", "img/RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
+    [["HRT.png", "RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
+    [["HRT.png", "SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
+    [["BDS.png", "RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
   ],
   "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
   "resultsDay2": ["1-0","0-1"],
