@@ -2,16 +2,16 @@ import week1 from '../assets/data/week1.json';
 import week2 from '../assets/data/week2.json';
 
 const imagenes = {
-  fnc: './img/FNC.png',
-  g2: './img/G2.png',
-  koi: './img/KOI.png',
-  rge: './img/RGE.png',
-  sk: './img/SK.png',
-  vit: './img/VIT.png',
-  gx: './img/GX.png',
-  th: './img/HRT.png',
-  kc: './img/KC.png',
-  bds: './img/BDS.png',
+  fnc: './Gabu-FantasyLEC/img/FNC.png',
+  g2: './Gabu-FantasyLEC/img/G2.png',
+  koi: './Gabu-FantasyLEC/img/KOI.png',
+  rge: './Gabu-FantasyLEC/img/RGE.png',
+  sk: './Gabu-FantasyLEC/img/SK.png',
+  vit: './Gabu-FantasyLEC/img/VIT.png',
+  gx: './Gabu-FantasyLEC/img/GX.png',
+  th: './Gabu-FantasyLEC/img/HRT.png',
+  kc: './Gabu-FantasyLEC/img/KC.png',
+  bds: './Gabu-FantasyLEC/img/BDS.png',
 };
 
 const mapVotesToImages = (votes, imagenes) => {
