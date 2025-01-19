@@ -1,15 +1,15 @@
 {
   "imagenes": {
-    "fnc": "img/FNC.png",
-    "g2": "img/G2.png",
-    "koi": "img/KOI.png",
-    "rge": "img/RGE.png",
-    "sk": "img/SK.png",
-    "vit": "img/VIT.png",
-    "gx": "img/GX.png",
-    "th": "img/HRT.png",
-    "kc": "img/KC.png",
-    "bds": "img/BDS.png"
+    "fnc": "../img/FNC.png",
+    "g2": "../img/G2.png",
+    "koi": "../img/KOI.png",
+    "rge": "../img/RGE.png",
+    "sk": "../img/SK.png",
+    "vit": "../img/VIT.png",
+    "gx": "../img/GX.png",
+    "th": "../img/HRT.png",
+    "kc": "../img/KC.png",
+    "bds": "../img/BDS.png"
   },
   "players": [
     {
@@ -74,16 +74,16 @@
     }
   ],
   "matches": [
-    [["img/HRT.png", "img/RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
-    [["img/HRT.png", "img/SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
-    [["img/BDS.png", "img/RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
+    [["../img/HRT.png", "../img/RGE.png"], ["../img/VIT.png", "../img/BDS.png"], ["../img/GX.png", "../img/SK.png"], ["../img/KOI.png", "../img/FNC.png"], ["../img/KC.png", "../img/G2.png"]],
+    [["../img/HRT.png", "../img/SK.png"], ["../img/RGE.png", "../img/GX.png"], ["../img/KOI.png", "../img/KC.png"], ["../img/G2.png", "../img/BDS.png"], ["../img/FNC.png", "../img/VIT.png"]],
+    [["../img/BDS.png", "../img/RGE.png"], ["../img/HRT.png", "../img/FNC.png"], ["../img/KOI.png", "../img/VIT.png"], ["../img/G2.png", "../img/SK.png"], ["../img/GX.png", "../img/KC.png"]]
   ],
   "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
   "resultsDay2": ["1-0","0-1"],
   "resultsDay3": [],
   "losers": [
-    ["img/HRT.png", "img/BDS.png", "img/SK.png", "img/FNC.png", "img/G2.png"],
-    ["img/SK.png", "img/RGE.png"],
+    ["../img/HRT.png", "../img/BDS.png", "../img/SK.png", "../img/FNC.png", "../img/G2.png"],
+    ["../img/SK.png", "../img/RGE.png"],
     []
   ]
 }
