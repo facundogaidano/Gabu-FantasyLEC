@@ -1,15 +1,15 @@
 {
   "imagenes": {
-    "fnc": "/Gabu-FantasyLEC/public/FNC.png",
-    "g2": "/Gabu-FantasyLEC/public/G2.png",
-    "koi": "/Gabu-FantasyLEC/public/KOI.png",
-    "rge": "/Gabu-FantasyLEC/public/RGE.png",
-    "sk": "/Gabu-FantasyLEC/public/SK.png",
-    "vit": "/Gabu-FantasyLEC/public/VIT.png",
-    "gx": "/Gabu-FantasyLEC/public/GX.png",
-    "th": "/Gabu-FantasyLEC/public/HRT.png",
-    "kc": "/Gabu-FantasyLEC/public/KC.png",
-    "bds": "/Gabu-FantasyLEC/public/BDS.png"
+    "fnc": "FNC.png",
+    "g2": "G2.png",
+    "koi": "KOI.png",
+    "rge": "RGE.png",
+    "sk": "SK.png",
+    "vit": "VIT.png",
+    "gx": "GX.png",
+    "th": "HRT.png",
+    "kc": "KC.png",
+    "bds": "BDS.png"
   },
   "players": [
     {
@@ -74,16 +74,16 @@
     }
   ],
   "matches": [
-    [["HRT.png", "RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
-    [["HRT.png", "SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
-    [["BDS.png", "RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
+    [["HRT.png", "RGE.png"], ["VIT.png", "BDS.png"], ["GX.png", "SK.png"], ["KOI.png", "FNC.png"], ["KC.png", "G2.png"]],
+    [["HRT.png", "SK.png"], ["RGE.png", "GX.png"], ["KOI.png", "KC.png"], ["G2.png", "BDS.png"], ["FNC.png", "VIT.png"]],
+    [["BDS.png", "RGE.png"], ["HRT.png", "FNC.png"], ["KOI.png", "VIT.png"], ["G2.png", "SK.png"], ["GX.png", "KC.png"]]
   ],
   "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
   "resultsDay2": ["1-0","0-1"],
   "resultsDay3": [],
   "losers": [
-    ["img/HRT.png", "img/BDS.png", "img/SK.png", "img/FNC.png", "img/G2.png"],
-    ["img/SK.png", "img/RGE.png"],
+    ["HRT.png", "BDS.png", "SK.png", "FNC.png", "G2.png"],
+    ["SK.png", "RGE.png"],
     []
   ]
 }
