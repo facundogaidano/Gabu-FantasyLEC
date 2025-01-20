@@ -80,10 +80,10 @@
   ],
   "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
   "resultsDay2": ["1-0","0-1", "0-1", "0-1", "1-0"],
-  "resultsDay3": [],
+  "resultsDay3": ["1-0", "0-1"],
   "losers": [
     ["HRT.png", "BDS.png", "SK.png", "FNC.png", "G2.png"],
     ["SK.png", "RGE.png", "KOI.png", "G2.png", "VIT.png"],
-    []
+    ["RGE.png", "TH.png"]
   ]
 }
