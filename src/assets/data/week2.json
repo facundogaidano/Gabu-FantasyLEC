@@ -1,88 +1,88 @@
 {
   "imagenes": {
-    "fnc": "img/FNC.png",
-    "g2": "img/G2.png",
-    "koi": "img/KOI.png",
-    "rge": "img/RGE.png",
-    "sk": "img/SK.png",
-    "vit": "img/VIT.png",
-    "gx": "img/GX.png",
-    "th": "img/HRT.png",
-    "kc": "img/KC.png",
-    "bds": "img/BDS.png"
+    "fnc": "FNC.png",
+    "g2": "G2.png",
+    "koi": "KOI.png",
+    "rge": "RGE.png",
+    "sk": "SK.png",
+    "vit": "VIT.png",
+    "gx": "GX.png",
+    "th": "HRT.png",
+    "kc": "KC.png",
+    "bds": "BDS.png"
   },
   "players": [
     {
       "id": 1,
       "name": "MrFakon",
-      "votes": [["fnc", "bds", "gx", "g2", "kc"], [], []]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], ["gx", "vit", "fnc", "kc", "koi"], ["vit", "fnc", "gx", "kc", "koi"]]
     },
     {
       "id": 2,
       "name": "TakRiuto",
-      "votes": [["rge", "bds", "koi", "g2", "kc"], [], []]
+      "votes": [["rge", "bds", "koi", "g2", "kc"], ["th", "sk", "g2", "kc", "koi"], ["rge", "fnc", "g2", "th", "koi"]]
     },
     {
       "id": 3,
       "name": "Isehnia",
-      "votes": [["rge", "bds", "gx", "g2", "kc"], [], []]
+      "votes": [["rge", "bds", "gx", "g2", "kc"], ["gx", "vit", "g2", "kc", "bds"], ["vit", "bds", "g2", "kc", "koi"]]
     },
     {
       "id": 4,
       "name": "Spike",
-      "votes": [[], [], []]
+      "votes": [[null], [null], [null]]
     },
     {
       "id": 5,
       "name": "Damian",
-      "votes": [["fnc", "bds", "koi", "g2", "kc"], [], []]
+      "votes": [["fnc", "bds", "koi", "g2", "kc"], ["gx", "vit", "g2", "kc", "koi"], ["vit", "fnc", "g2", "kc", "koi"]]
     },
     {
       "id": 6,
       "name": "Raledro",
-      "votes": [["fnc", "bds", "koi", "g2", "kc"], [], []]
+      "votes": [["fnc", "bds", "koi", "g2", "kc"], ["gx", "vit", "g2", "kc", "koi"], ["rge", "fnc", "g2", "kc", "koi"]]
     },
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [["fnc", "th", "gx", "g2", "kc"], [], []]
+      "votes": [["fnc", "th", "gx", "g2", "kc"], ["gx", "vit", "g2", "kc", "koi"], ["vit", "fnc", "g2", "kc", "koi"]]
     },
     {
       "id": 8,
       "name": "Papelon",
-      "votes": [[], [], []]
+      "votes": [[null], [null], [null]]
     },
     {
       "id": 9,
       "name": "Devmon",
-      "votes": [["rge", "bds", "gx", "vit", "kc"], [], []]
+      "votes": [["rge", "bds", "gx", "vit", "kc"], ["gx", "vit", "g2", "rge", "bds"], ["rge", "bds", "gx", "kc", "koi"]]
     },
     {
       "id": 10,
       "name": "Eduamen",
-      "votes": [["rge", "th", "gx", "g2", "sk"], [], []]
+      "votes": [["rge", "th", "gx", "g2", "sk"], ["gx", "sk", "fnc", "rge", "koi"], ["rge", "fnc", "gx", "th", "koi"]]
     },
     {
       "id": 11,
       "name": "Joe",
-      "votes": [["fnc", "bds", "gx", "g2", "kc"], [], []]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], ["gx", "vit", "fnc", "kc", "bds"], ["rge", "fnc", "gx", "kc", "sk"]]
     },
     {
       "id": 12,
       "name": "Carlos",
-      "votes": [[], [], []]
+      "votes": [[null], [null], [null]]
     }
   ],
   "matches": [
-    [["img/RGE.png", "img/FNC.png"], ["img/BDS.png", "img/TH.png"], ["img/GX.png", "img/KOI.png"], ["img/VIT.png", "img/G2.png"], ["img/KC.png", "img/SK.png"]],
-    [["img/HRT.png", "img/SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
-    [["img/BDS.png", "img/RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
+    [["RGE.png", "FNC.png"], ["BDS.png", "HRT.png"], ["GX.png", "KOI.png"], ["VIT.png", "G2.png"], ["KC.png", "SK.png"]],
+    [["GX.png", "HRT.png"], ["SK.png", "VIT.png"], ["FNC.png", "G2.png"], ["KC.png", "RGE.png"], ["BDS.png", "KOI.png"]],
+    [["VIT.png", "RGE.png"], ["FNC.png", "BDS.png"], ["G2.png", "GX.png"], ["KC.png", "HRT.png"], ["SK.png", "KOI.png"]]
   ],
-  "resultsDay1": ["0-1", "1-0", "1-0", "1-0", "1-0"],
+  "resultsDay1": [],
   "resultsDay2": [],
   "resultsDay3": [],
   "losers": [
-    ["img/HRT.png", "img/BDS.png", "img/SK.png", "img/FNC.png", "img/G2.png"],
+    [],
     [],
     []
   ]
