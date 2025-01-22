@@ -15,17 +15,17 @@
     {
       "id": 1,
       "name": "MrFakon",
-      "votes": [[], [], []]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], [], []]
     },
     {
       "id": 2,
       "name": "TakRiuto",
-      "votes": [[], [], []]
+      "votes": [["rge", "bds", "koi", "g2", "kc"], [], []]
     },
     {
       "id": 3,
       "name": "Isehnia",
-      "votes": [[], [], []]
+      "votes": [["rge", "bds", "gx", "g2", "kc"], [], []]
     },
     {
       "id": 4,
@@ -35,17 +35,17 @@
     {
       "id": 5,
       "name": "Damian",
-      "votes": [[], [], []]
+      "votes": [["fnc", "bds", "koi", "g2", "kc"], [], []]
     },
     {
       "id": 6,
       "name": "Raledro",
-      "votes": [[], [], []]
+      "votes": [["fnc", "bds", "koi", "g2", "kc"], [], []]
     },
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [[], [], []]
+      "votes": [["fnc", "th", "gx", "g2", "kc"], [], []]
     },
     {
       "id": 8,
@@ -55,17 +55,17 @@
     {
       "id": 9,
       "name": "Devmon",
-      "votes": [[], [], []]
+      "votes": [["rge", "bds", "gx", "vit", "kc"], [], []]
     },
     {
       "id": 10,
       "name": "Eduamen",
-      "votes": [[], [], []]
+      "votes": [["rge", "th", "gx", "g2", "sk"], [], []]
     },
     {
       "id": 11,
       "name": "Joe",
-      "votes": [[], [], []]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], [], []]
     },
     {
       "id": 12,
@@ -74,7 +74,7 @@
     }
   ],
   "matches": [
-    [["img/HRT.png", "img/RGE.png"], ["img/VIT.png", "img/BDS.png"], ["img/GX.png", "img/SK.png"], ["img/KOI.png", "img/FNC.png"], ["img/KC.png", "img/G2.png"]],
+    [["img/RGE.png", "img/FNC.png"], ["img/BDS.png", "img/TH.png"], ["img/GX.png", "img/KOI.png"], ["img/VIT.png", "img/G2.png"], ["img/KC.png", "img/SK.png"]],
     [["img/HRT.png", "img/SK.png"], ["img/RGE.png", "img/GX.png"], ["img/KOI.png", "img/KC.png"], ["img/G2.png", "img/BDS.png"], ["img/FNC.png", "img/VIT.png"]],
     [["img/BDS.png", "img/RGE.png"], ["img/HRT.png", "img/FNC.png"], ["img/KOI.png", "img/VIT.png"], ["img/G2.png", "img/SK.png"], ["img/GX.png", "img/KC.png"]]
   ],
