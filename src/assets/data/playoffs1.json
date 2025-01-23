@@ -1,0 +1,102 @@
+{
+  "imagenes": {
+    "fnc": "FNC.png",
+    "g2": "G2.png",
+    "koi": "KOI.png",
+    "rge": "RGE.png",
+    "sk": "SK.png",
+    "vit": "VIT.png",
+    "gx": "GX.png",
+    "th": "TH.png",
+    "kc": "KC.png",
+    "bds": "BDS.png",
+    "null": "NULL.png"
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "MrFakon",
+      "votes": [["fnc","gx"], ["koi", "vit"], [null]],
+      "resultsVotes": [["2-1","2-1"], ["2-1", "2-1"], [null]]
+    },
+    {
+      "id": 2,
+      "name": "TakRiuto",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 3,
+      "name": "Isehnia",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 4,
+      "name": "Spike",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 5,
+      "name": "Damian",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 6,
+      "name": "Raledro",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 7,
+      "name": "Ursus",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 8,
+      "name": "Papelon",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 9,
+      "name": "Devmon",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 10,
+      "name": "Eduamen",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 11,
+      "name": "Joe",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    },
+    {
+      "id": 12,
+      "name": "Carlos",
+      "votes": [[null], [null], [null]],
+      "resultsVotes": [[null], [null], [null]]
+    }
+  ],
+  "matches": [
+    [["FNC.png", "KC.png"],["GX.png", "G2.png"]],
+    [["KOI.png", "TH.png"], ["VIT.png", "BDS.png"]],
+    [[], [], [], [], []]
+  ],
+  "resultsDay1": ["2-1"],
+  "resultsDay2": [null],
+  "resultsDay3": [null],
+  "losers": [
+    ["KC.png"],
+    [null],
+    [null]
+  ]
+}

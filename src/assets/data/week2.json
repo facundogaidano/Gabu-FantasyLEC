@@ -7,9 +7,10 @@
     "sk": "SK.png",
     "vit": "VIT.png",
     "gx": "GX.png",
-    "th": "HRT.png",
+    "th": "TH.png",
     "kc": "KC.png",
-    "bds": "BDS.png"
+    "bds": "BDS.png",
+    "null": "NULL.png"
   },
   "players": [
     {
@@ -74,9 +75,9 @@
     }
   ],
   "matches": [
-    [["RGE.png", "FNC.png"], ["BDS.png", "HRT.png"], ["GX.png", "KOI.png"], ["VIT.png", "G2.png"], ["KC.png", "SK.png"]],
-    [["GX.png", "HRT.png"], ["SK.png", "VIT.png"], ["FNC.png", "G2.png"], ["KC.png", "RGE.png"], ["BDS.png", "KOI.png"]],
-    [["VIT.png", "RGE.png"], ["FNC.png", "BDS.png"], ["G2.png", "GX.png"], ["KC.png", "HRT.png"], ["SK.png", "KOI.png"]]
+    [["RGE.png", "FNC.png"], ["BDS.png", "TH.png"], ["GX.png", "KOI.png"], ["VIT.png", "G2.png"], ["KC.png", "SK.png"]],
+    [["GX.png", "TH.png"], ["SK.png", "VIT.png"], ["FNC.png", "G2.png"], ["KC.png", "RGE.png"], ["BDS.png", "KOI.png"]],
+    [["VIT.png", "RGE.png"], ["FNC.png", "BDS.png"], ["G2.png", "GX.png"], ["KC.png", "TH.png"], ["SK.png", "KOI.png"]]
   ],
   "resultsDay1": [],
   "resultsDay2": [],

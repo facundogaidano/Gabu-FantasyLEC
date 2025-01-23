@@ -1,5 +1,7 @@
 import week1 from '../assets/data/week1.json';
 import week2 from '../assets/data/week2.json';
+import week3 from '../assets/data/week3.json';
+import playoffs1 from '../assets/data/playoffs1.json';
 
 const imagenes = {
   "fnc": "/Gabu-FantasyLEC/public/FNC.png",
@@ -9,7 +11,7 @@ const imagenes = {
   "sk": "/Gabu-FantasyLEC/public/SK.png",
   "vit": "/Gabu-FantasyLEC/public/VIT.png",
   "gx": "/Gabu-FantasyLEC/public/GX.png",
-  "th": "/Gabu-FantasyLEC/public/HRT.png",
+  "th": "/Gabu-FantasyLEC/public/TH.png",
   "kc": "/Gabu-FantasyLEC/public/KC.png",
   "bds": "/Gabu-FantasyLEC/public/BDS.png"
 };
@@ -50,4 +52,14 @@ const week2Data = {
   dayData: generateDayData(week2)
 };
 
-export { week1Data, week2Data };
+const week3Data = {
+  ...week3,
+  dayData: generateDayData(week3)
+};
+
+const playoffs1Data = {
+  ...playoffs1,
+  dayData: generateDayData(playoffs1)
+};
+
+export { week1Data, week2Data, week3Data, playoffs1Data };

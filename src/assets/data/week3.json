@@ -1,0 +1,90 @@
+{
+  "imagenes": {
+    "fnc": "FNC.png",
+    "g2": "G2.png",
+    "koi": "KOI.png",
+    "rge": "RGE.png",
+    "sk": "SK.png",
+    "vit": "VIT.png",
+    "gx": "GX.png",
+    "th": "TH.png",
+    "kc": "KC.png",
+    "bds": "BDS.png",
+    "null": "NULL.png"
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "MrFakon",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 2,
+      "name": "TakRiuto",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 3,
+      "name": "Isehnia",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 4,
+      "name": "Spike",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 5,
+      "name": "Damian",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 6,
+      "name": "Raledro",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 7,
+      "name": "Ursus",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 8,
+      "name": "Papelon",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 9,
+      "name": "Devmon",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 10,
+      "name": "Eduamen",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 11,
+      "name": "Joe",
+      "votes": [[null], [null], [null]]
+    },
+    {
+      "id": 12,
+      "name": "Carlos",
+      "votes": [[null], [null], [null]]
+    }
+  ],
+  "matches": [
+    [["SK.png", "BDS.png"], ["GX.png", "FNC.png"], ["RGE.png", "G2.png"], ["TH.png", "KOI.png"], ["VIT.png", "KC.png"]],
+    [["RGE.png", "SK.png"], ["BDS.png", "GX.png"], ["FNC.png", "KC.png"], ["TH.png", "VIT.png"], ["G2.png", "KOI.png"]],
+    [["VIT.png", "GX.png"], ["KOI.png", "RGE.png"], ["KC.png", "BDS.png"], ["G2.png", "TH.png"], ["SK.png", "FNC.png"]]
+  ],
+  "resultsDay1": [null],
+  "resultsDay2": [null],
+  "resultsDay3": [null],
+  "losers": [
+    [null],
+    [null],
+    [null]
+  ]
+}

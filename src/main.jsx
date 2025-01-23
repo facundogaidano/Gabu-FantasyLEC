@@ -4,7 +4,8 @@ import { Link, RouterProvider, createBrowserRouter } from 'react-router-dom';
 import './App.css';
 import App from './App.jsx';
 import Week from './components/Week';
-import { week1Data, week2Data } from './components/Votes';
+import Playoffs from './components/PlayOffs';
+import { week1Data, week2Data, week3Data, playoffs1Data } from './components/Votes';
 import './index.css';
 
 const router = createBrowserRouter([
@@ -39,6 +40,32 @@ const router = createBrowserRouter([
         ),
       },
       {
+        path: "/Gabu-FantasyLEC/week-3",
+        element: (
+          <Week
+            weekNumber={3}
+            matches={week3Data.matches}
+            results={[week3Data.resultsDay1, week3Data.resultsDay2, week3Data.resultsDay3]}
+            losers={week3Data.losers}
+            players={week3Data.players}
+            imagenes={week3Data.imagenes}
+          />
+        ),
+      },
+      {
+        path: "/Gabu-FantasyLEC/playoffs-1",
+        element: (
+          <Playoffs
+            playoffsNumber={1}
+            matches={playoffs1Data.matches}
+            results={[playoffs1Data.resultsDay1, playoffs1Data.resultsDay2, playoffs1Data.resultsDay3]}
+            losers={playoffs1Data.losers}
+            players={playoffs1Data.players}
+            imagenes={playoffs1Data.imagenes}
+          />
+        ),
+      },
+      {
         path: "/Gabu-FantasyLEC/",
         element: (
           <div>
@@ -46,6 +73,10 @@ const router = createBrowserRouter([
               <Link to="/Gabu-FantasyLEC/week-1">Week 1</Link>
               {" | "}
               <Link to="/Gabu-FantasyLEC/week-2">Week 2</Link>
+              {" | "}
+              <Link to="/Gabu-FantasyLEC/week-3">Week 3</Link>
+              {" | "}
+              <Link to="/Gabu-FantasyLEC/playoffs-1">Play Offs 1</Link>
             </nav>
             <h2>Bienvenido al Fantasy LEC</h2>
             <p>
