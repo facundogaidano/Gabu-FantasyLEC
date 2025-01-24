@@ -16,8 +16,8 @@
     {
       "id": 1,
       "name": "MrFakon",
-      "votes": [["fnc","gx"], ["koi", "vit"], [null]],
-      "resultsVotes": [["2-1","2-1"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","gx"], ["koi", "vit"], ["g2"]],
+      "resultsVotes": [["2-1","2-1"], ["2-1", "2-1"], ["2-0"]]
     },
     {
       "id": 2,
@@ -89,13 +89,13 @@
   "matches": [
     [["FNC.png", "KC.png"],["GX.png", "G2.png"]],
     [["KOI.png", "TH.png"], ["VIT.png", "BDS.png"]],
-    [[], [], [], [], []]
+    [["G2.png", "RGE.png"]]
   ],
-  "resultsDay1": ["2-1"],
+  "resultsDay1": ["2-1", "1-2"],
   "resultsDay2": [null],
   "resultsDay3": [null],
   "losers": [
-    ["KC.png"],
+    ["KC.png", "GX.png"],
     [null],
     [null]
   ]

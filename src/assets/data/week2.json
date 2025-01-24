@@ -31,7 +31,7 @@
     {
       "id": 4,
       "name": "Spike",
-      "votes": [[null], [null], [null]]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], ["gx", "vit", "fnc", "kc", "koi"], ["rge", "fnc", "gx", "kc", "sk"]]
     },
     {
       "id": 5,
@@ -51,7 +51,7 @@
     {
       "id": 8,
       "name": "Papelon",
-      "votes": [[null], [null], [null]]
+      "votes": [["fnc", "bds", "koi", "g2", "kc"], ["gx", "vit", "fnc", "rge", "bds"], ["rge", "bds", "g2", "th", "koi"]]
     },
     {
       "id": 9,
@@ -71,7 +71,7 @@
     {
       "id": 12,
       "name": "Carlos",
-      "votes": [[null], [null], [null]]
+      "votes": [["fnc", "bds", "gx", "g2", "kc"], ["gx", "vit", "fnc", "kc", "koi"], ["vit", "fnc", "g2", "kc", "koi"]]
     }
   ],
   "matches": [
