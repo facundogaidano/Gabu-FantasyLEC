@@ -3,13 +3,13 @@ import React from 'react';
 const Leaderboard = () => {
   const players = [
     { name: 'MrFakon', points: [2,3,4,1] },
-    { name: 'TakRiuto', points: [2,2,3,0] },
+    { name: 'TakRiuto', points: [2,2,3,1] },
     { name: 'Isehnia', points: [1,3,4,0] },
     { name: 'Spike', points: [0,2,4,1] },
-    { name: 'Damian', points: [2,3,4,1] },
-    { name: 'Raledro', points: [2,1,3,1] },
+    { name: 'Damian', points: [2,3,4,2] },
+    { name: 'Raledro', points: [2,1,3,2] },
     { name: 'Ursus', points: [3,2,2,2] },
-    { name: 'Papelon', points: [0,3,3,1] },
+    { name: 'Papelon', points: [0,3,3,2] },
     { name: 'Devmon', points: [2,3,3,0] },
     { name: 'Eduamen', points: [2,2,4,1] },
     { name: 'Joe', points: [0,4,3,1] },
