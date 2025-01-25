@@ -8,10 +8,10 @@ const Leaderboard = () => {
     { name: 'Spike', points: [0,2,4,1] },
     { name: 'Damian', points: [2,3,4,1] },
     { name: 'Raledro', points: [2,1,3,1] },
-    { name: 'Ursus', points: [3,2,2,1] },
+    { name: 'Ursus', points: [3,2,2,2] },
     { name: 'Papelon', points: [0,3,3,1] },
     { name: 'Devmon', points: [2,3,3,0] },
-    { name: 'Eduamen', points: [2,2,4,0] },
+    { name: 'Eduamen', points: [2,2,4,1] },
     { name: 'Joe', points: [0,4,3,1] },
     { name: 'Carlos', points: [0,3,3,1] },
   ];
