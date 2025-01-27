@@ -73,9 +73,9 @@ const router = createBrowserRouter([
               <Link to="/Gabu-FantasyLEC/week-1">Week 1</Link>
               {" | "}
               <Link to="/Gabu-FantasyLEC/week-2">Week 2</Link>
-              {/* {" | "}
-              <Link to="/Gabu-FantasyLEC/week-3">Week 3</Link>
               {" | "}
+              <Link to="/Gabu-FantasyLEC/week-3">Week 3</Link>
+              {/* {" | "}
               <Link to="/Gabu-FantasyLEC/playoffs-1">Play Offs 1</Link> */}
             </nav>
             <h2>Bienvenido al Fantasy LEC</h2>
