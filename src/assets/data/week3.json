@@ -16,12 +16,12 @@
     {
       "id": 1,
       "name": "MrFakon",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["rge", "gx", "kc", "vit", "g2"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 2,
       "name": "TakRiuto",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "vit"], ["rge", "bds", "fnc", "th", "g2"], ["vit", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@
     {
       "id": 5,
       "name": "Damian",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["sk", "gx", "fnc", "vit", "g2"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 6,
@@ -46,27 +46,27 @@
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "gx", "g2", "koi", "kc"], ["rge", "gx", "kc", "vit", "koi"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 8,
       "name": "Papelon",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["rge", "gx", "kc", "th", "g2"], ["gx", "rge", "kc", "g2", "fnc"]]
     },
     {
       "id": 9,
       "name": "Devmon",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["sk", "gx", "fnc", "th", "koi"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 10,
       "name": "Eduamen",
-      "votes": [[null], [null], [null]]
+      "votes": [["sk", "fnc", "rge", "koi", "vit"], ["rge", "gx", "fnc", "th", "koi"], ["gx", "rge", "bds", "g2", "fnc"]]
     },
     {
       "id": 11,
       "name": "Joe",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "th", "kc"], ["rge", "bds", "fnc", "th", "koi"], ["gx", "rge", "kc", "th", "fnc"]]
     },
     {
       "id": 12,
