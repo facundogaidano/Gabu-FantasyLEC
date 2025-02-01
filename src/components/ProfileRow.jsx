@@ -13,6 +13,7 @@ const profiles = [
   { id: 10, name: 'Eduamen', img: 'https://cdn.discordapp.com/avatars/310865371328413706/13e1546ad45fe28fb7dcb34f8d9e232d.png?size=4096' },
   { id: 11, name: 'Joe', img: 'https://cdn.discordapp.com/avatars/535849647952887809/3104ddad93a200dbfc391cc521ddd5ec.png?size=4096' },
   { id: 12, name: 'Carlos', img: 'https://cdn.discordapp.com/avatars/119943961375801344/d9eaa327951ae9ca3f5959d64cc63180.png?size=4096' },
+  { id: 13, name: "Grimo", img: 'https://cdn.discordapp.com/avatars/359209826124824576/25ba5210ab186095d7c4d18593a9d080.png?size=4096'}
 ]
 
 const ProfileRow = () => {

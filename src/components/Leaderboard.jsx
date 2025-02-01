@@ -14,6 +14,7 @@ const Leaderboard = () => {
     { name: 'Eduamen', points: [2,2,4,2,3,2] },
     { name: 'Joe', points: [0,4,3,3,4,2] },
     { name: 'Carlos', points: [0,3,3,3,5,5] },
+    { name: 'Grimo', points: [0] }
   ];
 
   const playersWithTotalPoints = players.map(player => ({

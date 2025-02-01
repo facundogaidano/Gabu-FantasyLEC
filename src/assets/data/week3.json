@@ -26,12 +26,12 @@
     {
       "id": 3,
       "name": "Isehnia",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "gx", "rge", "koi", "vit"], ["sk", "gx", "fnc", "vit", "g2"], ["gx", "koi", "bds", "g2", "fnc"]]
     },
     {
       "id": 4,
       "name": "Spike",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["rge", "gx", "fnc", "vit", "koi"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 5,
@@ -71,7 +71,12 @@
     {
       "id": 12,
       "name": "Carlos",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["sk", "gx", "fnc", "vit", "g2"], ["gx", "koi", "kc", "g2", "fnc"]]
+    },
+    {
+      "id": 13,
+      "name": "Grimo",
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["rge", "gx", "fnc", "vit", "koi"], ["gx", "koi", "bds", "g2", "fnc"]]
     }
   ],
   "matches": [
