@@ -41,7 +41,7 @@
     {
       "id": 6,
       "name": "Raledro",
-      "votes": [[null], [null], [null]]
+      "votes": [["bds", "fnc", "g2", "koi", "kc"], ["rge", "bds", "fnc", "vit", "g2"], ["gx", "koi", "kc", "g2", "fnc"]]
     },
     {
       "id": 7,
@@ -84,11 +84,11 @@
     [["RGE.png", "SK.png"], ["BDS.png", "GX.png"], ["FNC.png", "KC.png"], ["TH.png", "VIT.png"], ["G2.png", "KOI.png"]],
     [["VIT.png", "GX.png"], ["KOI.png", "RGE.png"], ["KC.png", "BDS.png"], ["G2.png", "TH.png"], ["SK.png", "FNC.png"]]
   ],
-  "resultsDay1": [null],
+  "resultsDay1": ["0-1", "0-1", "0-1", "1-0", "0-1"],
   "resultsDay2": [null],
   "resultsDay3": [null],
   "losers": [
-    [null],
+    ["SK.png", "GX.png", "RGE.png", "KOI.png", "VIT.png"],
     [null],
     [null]
   ]
