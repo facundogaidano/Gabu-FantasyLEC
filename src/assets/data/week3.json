@@ -85,11 +85,11 @@
     [["VIT.png", "GX.png"], ["KOI.png", "RGE.png"], ["KC.png", "BDS.png"], ["G2.png", "TH.png"], ["SK.png", "FNC.png"]]
   ],
   "resultsDay1": ["0-1", "0-1", "0-1", "1-0", "0-1"],
-  "resultsDay2": ["0-1", "0-1", "1-0", "0-1"],
+  "resultsDay2": ["0-1", "0-1", "1-0", "0-1", "1-0"],
   "resultsDay3": [null],
   "losers": [
     ["SK.png", "GX.png", "RGE.png", "KOI.png", "VIT.png"],
-    ["RGE.png", "BDS.png", "KC.png", "TH.png"],
+    ["RGE.png", "BDS.png", "KC.png", "TH.png"," KOI.png"],
     [null]
   ]
 }
