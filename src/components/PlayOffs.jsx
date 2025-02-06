@@ -2,7 +2,7 @@ import '../App.css';
 import '../assets/fonts/fonts.css';
 import React from 'react';
 import DayColumnPlayoffs from './DayColumnPlayoffs';
-import VsColumn from './VsColumn';
+import VsColumnPlayoffs from './VsColumnPlayoffs';
 
 const Playoffs = ({ playoffsNumber, matches, results, losers, players, imagenes }) => {
   const mapVotesToImages = (votes) => {
@@ -37,9 +37,9 @@ const Playoffs = ({ playoffsNumber, matches, results, losers, players, imagenes 
   return (
     <div className={`main-content playoffs-${playoffsNumber}`}>
       <div className="vs-playoffs-columns">
-        <VsColumn matches={matches[0]} results={results[0]} losers={losers[0]} />
-        <VsColumn matches={matches[1]} results={results[1]} losers={losers[1]} />
-        <VsColumn matches={matches[2]} results={results[2]} losers={losers[2]} />
+        <VsColumnPlayoffs matches={matches[0]} results={results[0]} losers={losers[0]} />
+        <VsColumnPlayoffs matches={matches[1]} results={results[1]} losers={losers[1]} />
+        <VsColumnPlayoffs matches={matches[2]} results={results[2]} losers={losers[2]} />
       </div>
       <div className="day-playoffs-container">
         <DayColumnPlayoffs day={1} data={Day1} losers={losers} />

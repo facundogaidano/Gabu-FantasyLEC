@@ -79,7 +79,7 @@ html, body {
 
 .cell-playoffs {
   flex: 1;
-  padding: 5px;
+  padding: 5px 5px 0px 5px;
   border: 1.5px solid #ccc;
   min-width: 50px;
   min-height: 50px;
@@ -216,7 +216,7 @@ img {
 }
 
 .vs-playoffs-columns > .vs-column > .vs-cell > .cell {
-  height: 74px; /* Increase the height */
+  height: 69px; /* Increase the height */
 }
 
 .vs-cell {
@@ -232,6 +232,10 @@ img {
   font-size: 2rem;
   border-top: 1.5px solid #ccc;
   border-bottom: 1.5px solid #ccc;
+}
+
+.vs-text-playoffs {
+  margin: 0;
 }
 
 .vs-cell > .cell {
