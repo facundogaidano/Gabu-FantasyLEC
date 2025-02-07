@@ -76,8 +76,8 @@
     {
       "id": 11,
       "name": "Joe",
-      "votes": [[null], [null], [null]],
-      "resultsVotes": [[null], [null], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
+      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], [null]]
     },
     {
       "id": 12,
