@@ -52,8 +52,8 @@
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [[null], [null], [null]],
-      "resultsVotes": [[null], [null], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
+      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-0"], [null]]
     },
     {
       "id": 8,
