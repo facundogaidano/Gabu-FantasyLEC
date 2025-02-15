@@ -97,11 +97,11 @@
     [["KOI.png", "BDS.png"], ["KC.png", "VIT.png"]],
     [["NULL.png", "NULL.png"]]
   ],
-  "resultsDay1": [null],
+  "resultsDay1": ["2-0", "2-0"],
   "resultsDay2": [null],
   "resultsDay3": [null],
   "losers": [
-    [null],
+    ["TH.png", "GX.png"],
     [null],
     [null]
   ]
