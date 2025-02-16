@@ -2,19 +2,19 @@ import React from 'react';
 
 const Leaderboard = () => {
   const players = [
-    { name: 'MrFakon', points: [21,4+3+1+2,4] },
-    { name: 'TakRiuto', points: [15,3+2+2+2,4] },
-    { name: 'Isehnia', points: [15,1+5+2+2,4] },
-    { name: 'Spike', points: [16,4+3+1+2,4] },
-    { name: 'Damian', points: [22,4+5+1+2,6] },
-    { name: 'Raledro', points: [18,4+3+1+2,2] },
-    { name: 'Ursus', points: [20,3+2+1+2,4] },
-    { name: 'Papelon', points: [16,4+2+2,4] },
-    { name: 'Devmon', points: [13,4+3+1+2,4] },
-    { name: 'Eduamen', points: [15,1+2+1+2,1] },
-    { name: 'Joe', points: [16,5+1+1,4] },
-    { name: 'Carlos', points: [19,4+5+1+2,6] },
-    { name: 'Grimo', points: [0,4+3+2+2,2] }
+    { name: 'MrFakon', points: [21,4+3+1+2,4,3] },
+    { name: 'TakRiuto', points: [15,3+2+2+2,4,2] },
+    { name: 'Isehnia', points: [15,1+5+2+2,4,2] },
+    { name: 'Spike', points: [16,4+3+1+2,4,2] },
+    { name: 'Damian', points: [22,4+5+1+2,6,2] },
+    { name: 'Raledro', points: [18,4+3+1+2,2,4] },
+    { name: 'Ursus', points: [20,3+2+1+2,4,6] },
+    { name: 'Papelon', points: [16,4+2+2,4,4] },
+    { name: 'Devmon', points: [13,4+3+1+2,4,1] },
+    { name: 'Eduamen', points: [15,1+2+1+2,1,1] },
+    { name: 'Joe', points: [16,5+1+1,4,2] },
+    { name: 'Carlos', points: [19,4+5+1+2,6,2] },
+    { name: 'Grimo', points: [0,4+3+2+2,2,1] }
   ];
 
   const playersWithTotalPoints = players.map(player => ({

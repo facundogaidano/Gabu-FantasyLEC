@@ -16,50 +16,50 @@
     {
       "id": 1,
       "name": "MrFakon",
-      "votes": [["fnc","g2"], ["bds", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-0"], [null]]
+      "votes": [["fnc","g2"], ["bds", "kc"], ["fnc","kc"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-0"], ["2-0", "2-1"]]
     },
     {
       "id": 2,
       "name": "TakRiuto",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-1", "2-0"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["g2","kc"]],
+      "resultsVotes": [["2-1", "2-0"], ["2-1", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 3,
       "name": "Isehnia",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["g2","koi"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 4,
       "name": "Spike",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["fnc","koi"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], ["2-1", "2-0"]]
     },
     {
       "id": 5,
       "name": "Damian",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-0"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["fnc","kc"]],
+      "resultsVotes": [["2-0", "2-0"], ["2-1", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 6,
       "name": "Raledro",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-0"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["g2","koi"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-0"], ["2-1", "2-0"]]
     },
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-0"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["g2","koi"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-0"], ["2-1", "2-0"]]
     },
     {
       "id": 8,
       "name": "Papelon",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["fnc","kc"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 9,
@@ -82,27 +82,27 @@
     {
       "id": 12,
       "name": "Carlos",
-      "votes": [["fnc","g2"], ["koi", "kc"], [null]],
-      "resultsVotes": [["2-0", "2-0"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "kc"], ["fnc","koi"]],
+      "resultsVotes": [["2-0", "2-0"], ["2-1", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 13,
       "name": "Grimo",
-      "votes": [["fnc","g2"], ["bds", "kc"], [null]],
-      "resultsVotes": [["2-1", "2-1"], ["2-0", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["bds", "kc"], ["fnc","koi"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-0", "2-1"], ["2-1", "2-0"]]
     }
   ],
   "matches": [
     [["FNC.png", "TH.png"],["G2.png", "GX.png"]],
     [["KOI.png", "BDS.png"], ["KC.png", "VIT.png"]],
-    [["NULL.png", "NULL.png"]]
+    [["FNC.png", "G2.png"], ["KC.png", "KOI.png"]]
   ],
   "resultsDay1": ["2-0", "2-0"],
-  "resultsDay2": [null],
+  "resultsDay2": ["2-0", "2-0"],
   "resultsDay3": [null],
   "losers": [
     ["TH.png", "GX.png"],
-    [null],
+    ["BDS.png", "VIT.png"],
     [null]
   ]
 }
