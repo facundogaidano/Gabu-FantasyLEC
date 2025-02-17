@@ -64,14 +64,14 @@
     {
       "id": 9,
       "name": "Devmon",
-      "votes": [["fnc","g2"], ["koi", "vit"], [null]],
-      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], [null]]
+      "votes": [["fnc","g2"], ["koi", "vit"], ["g2","koi"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-1", "2-1"], ["2-1", "2-0"]]
     },
     {
       "id": 10,
       "name": "Eduamen",
-      "votes": [["th","g2"], ["koi", "vit"], [null]],
-      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-1"], [null]]
+      "votes": [["th","g2"], ["koi", "vit"], ["g2","koi"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-1"], ["2-1", "2-1"]]
     },
     {
       "id": 11,
@@ -99,10 +99,10 @@
   ],
   "resultsDay1": ["2-0", "2-0"],
   "resultsDay2": ["2-0", "2-0"],
-  "resultsDay3": [null],
+  "resultsDay3": ["0-2", "2-0"],
   "losers": [
     ["TH.png", "GX.png"],
     ["BDS.png", "VIT.png"],
-    [null]
+    ["FNC.png", "KOI.png"]
   ]
 }
