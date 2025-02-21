@@ -1,0 +1,108 @@
+{
+  "imagenes": {
+    "fnc": "FNC.png",
+    "g2": "G2.png",
+    "koi": "KOI.png",
+    "rge": "RGE.png",
+    "sk": "SK.png",
+    "vit": "VIT.png",
+    "gx": "GX.png",
+    "th": "TH.png",
+    "kc": "KC.png",
+    "bds": "BDS.png",
+    "null": "NULL.png"
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "MrFakon",
+      "votes": [["vit","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-0"], ["2-0", "2-0"], ["3-1"]]
+    },
+    {
+      "id": 2,
+      "name": "TakRiuto",
+      "votes": [["bds","th"], ["fnc", null], ["g2"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-0", "2-1"], ["3-0"]]
+    },
+    {
+      "id": 3,
+      "name": "Isehnia",
+      "votes": [["vit","gx"], ["fnc", null], ["g2"]],
+      "resultsVotes": [["2-1", "2-0"], ["2-0", "2-1"], ["3-1"]]
+    },
+    {
+      "id": 4,
+      "name": "Spike",
+      "votes": [["bds","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-0", "2-1"], ["3-1"]]
+    },
+    {
+      "id": 5,
+      "name": "Damian",
+      "votes": [["vit","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-0", "2-0"], ["2-0", "2-0"], ["3-0"]]
+    },
+    {
+      "id": 6,
+      "name": "Raledro",
+      "votes": [["vit","gx"], ["fnc", null], ["g2"]],
+      "resultsVotes": [["2-0", "2-0"], ["2-0", "2-1"], ["3-1"]]
+    },
+    {
+      "id": 7,
+      "name": "Ursus",
+      "votes": [["vit","th"], ["fnc", null], ["g2"]],
+      "resultsVotes": [["2-0", "2-0"], ["2-0", "2-1"], ["3-0"]]
+    },
+    {
+      "id": 8,
+      "name": "Papelon",
+      "votes": [["bds","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-0", "2-1"], ["2-0", "2-1"], ["3-1"]]
+    },
+    {
+      "id": 9,
+      "name": "Devmon",
+      "votes": [["bds","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-0"], ["2-1", "2-1"], ["3-0"]]
+    },
+    {
+      "id": 10,
+      "name": "Eduamen",
+      "votes": [["bds","th"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-1"], ["3-1"]]
+    },
+    {
+      "id": 11,
+      "name": "Joe",
+      "votes": [["bds","th"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-0"], ["3-2"]]
+    },
+    {
+      "id": 12,
+      "name": "Carlos",
+      "votes": [["bds","gx"], ["fnc", "koi"], ["g2"]],
+      "resultsVotes": [["2-1", "2-1"], ["2-1", "2-1"], ["3-2"]]
+    },
+    {
+      "id": 13,
+      "name": "Grimo",
+      "votes": [["bds","gx"], ["fnc", null], ["g2"]],
+      "resultsVotes": [["2-1", "2-0"], ["2-0", "2-1"], ["3-0"]]
+    }
+  ],
+  "matches": [
+    [["VIT.png", "BDS.png"],["GX.png", "TH.png"]],
+    [["NULL.png", "FNC.png"], ["NULL.png", "KOI.png"]],
+    [["G2.png", "KC.png"]]
+  ],
+  "resultsDay1": [],
+  "resultsDay2": [],
+  "resultsDay3": [],
+  "losers": [
+    [],
+    [],
+    []
+  ]
+}
