@@ -22,13 +22,13 @@
     {
       "id": 2,
       "name": "TakRiuto",
-      "votes": [["bds","th"], ["fnc", null], ["g2"]],
+      "votes": [["bds","th"], ["fnc", "gx"], ["g2"]],
       "resultsVotes": [["2-1", "2-1"], ["2-0", "2-1"], ["3-0"]]
     },
     {
       "id": 3,
       "name": "Isehnia",
-      "votes": [["vit","gx"], ["fnc", null], ["g2"]],
+      "votes": [["vit","gx"], ["fnc", "gx"], ["g2"]],
       "resultsVotes": [["2-1", "2-0"], ["2-0", "2-1"], ["3-1"]]
     },
     {
@@ -46,13 +46,13 @@
     {
       "id": 6,
       "name": "Raledro",
-      "votes": [["vit","gx"], ["fnc", null], ["g2"]],
+      "votes": [["vit","gx"], ["fnc", "gx"], ["g2"]],
       "resultsVotes": [["2-0", "2-0"], ["2-0", "2-1"], ["3-1"]]
     },
     {
       "id": 7,
       "name": "Ursus",
-      "votes": [["vit","th"], ["fnc", null], ["g2"]],
+      "votes": [["vit","th"], ["fnc", "gx"], ["g2"]],
       "resultsVotes": [["2-0", "2-0"], ["2-0", "2-1"], ["3-0"]]
     },
     {
@@ -88,21 +88,21 @@
     {
       "id": 13,
       "name": "Grimo",
-      "votes": [["bds","gx"], ["fnc", null], ["g2"]],
+      "votes": [["bds","gx"], ["fnc", "gx"], ["g2"]],
       "resultsVotes": [["2-1", "2-0"], ["2-0", "2-1"], ["3-0"]]
     }
   ],
   "matches": [
     [["VIT.png", "BDS.png"],["GX.png", "TH.png"]],
-    [["NULL.png", "FNC.png"], ["NULL.png", "KOI.png"]],
+    [["FNC.png", "BDS.png"], ["KOI.png", "GX.png"]],
     [["G2.png", "KC.png"]]
   ],
-  "resultsDay1": [],
-  "resultsDay2": [],
-  "resultsDay3": [],
+  "resultsDay1": ["1 - 2", "2 - 1"],
+  "resultsDay2": ["2 - 1", "2 - 0"],
+  "resultsDay3": ["3 - 1"],
   "losers": [
-    [],
-    [],
-    []
+    ["VIT.png", "TH.png"],
+    ["BDS.png", "GX.png"],
+    ["KC.png"]
   ]
 }
