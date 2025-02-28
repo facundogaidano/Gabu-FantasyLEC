@@ -3,6 +3,7 @@ import week2 from '../assets/data/week2.json';
 import week3 from '../assets/data/week3.json';
 import playoffs1 from '../assets/data/playoffs1.json';
 import playoffs2 from '../assets/data/playoffs2.json';
+import playoffs3 from '../assets/data/playoffs3.json';
 
 const imagenes = {
   "fnc": "/Gabu-FantasyLEC/public/FNC.png",
@@ -68,4 +69,9 @@ const playoffs2Data = {
   dayData: generateDayData(playoffs2)
 };
 
-export { week1Data, week2Data, week3Data, playoffs1Data, playoffs2Data };
+const playoffs3Data = {
+  ...playoffs3,
+  dayData: generateDayData(playoffs2)
+};
+
+export { week1Data, week2Data, week3Data, playoffs1Data, playoffs2Data, playoffs3Data };

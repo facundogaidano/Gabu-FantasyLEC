@@ -5,7 +5,7 @@ import './App.css';
 import App from './App.jsx';
 import Week from './components/Week';
 import Playoffs from './components/PlayOffs';
-import { week1Data, week2Data, week3Data, playoffs1Data, playoffs2Data } from './components/Votes';
+import { week1Data, week2Data, week3Data, playoffs1Data, playoffs2Data, playoffs3Data } from './components/Votes';
 import './index.css';
 
 const router = createBrowserRouter([
@@ -79,6 +79,19 @@ const router = createBrowserRouter([
         ),
       },
       {
+        path: "/Gabu-FantasyLEC/playoffs-3",
+        element: (
+          <Playoffs
+            playoffsNumber={3}
+            matches={playoffs3Data.matches}
+            results={[playoffs3Data.resultsDay1, playoffs3Data.resultsDay2, playoffs3Data.resultsDay3]}
+            losers={playoffs3Data.losers}
+            players={playoffs3Data.players}
+            imagenes={playoffs3Data.imagenes}
+          />
+        ),
+      },
+      {
         path: "/Gabu-FantasyLEC/",
         element: (
           <div>
@@ -92,6 +105,8 @@ const router = createBrowserRouter([
               <Link to="/Gabu-FantasyLEC/playoffs-1">Play Offs 1</Link>
               {" | "}
               <Link to="/Gabu-FantasyLEC/playoffs-2">Play Offs 2</Link>
+              {" | "}
+              <Link to="/Gabu-FantasyLEC/playoffs-3">Play Offs 3</Link>
             </nav>
             <h2>Bienvenido al Fantasy LEC</h2>
             <p>
