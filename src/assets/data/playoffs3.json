@@ -34,7 +34,7 @@
     {
       "id": 4,
       "name": "Spike",
-      "votes": [["fnc"], ["fnc"], ["null"]],
+      "votes": [["fnc"], ["fnc"], ["kc"]],
       "resultsVotes": [["3-2"], ["3-2"], ["3-2"]]
     },
     {
@@ -70,7 +70,7 @@
     {
       "id": 10,
       "name": "Eduamen",
-      "votes": [["koi"], ["fnc"], ["null"]],
+      "votes": [["koi"], ["fnc"], ["kc"]],
       "resultsVotes": [["3-1"], ["3-1"], ["3-1"]]
     },
     {
@@ -95,14 +95,14 @@
   "matches": [
     [["FNC.png", "KOI.png"]],
     [["KC.png", "FNC.png"]],
-    [["G2.png", "NULL.png"]]
+    [["G2.png", "KC.png"]]
   ],
   "resultsDay1": ["3 - 1"],
-  "resultsDay2": [],
-  "resultsDay3": [],
+  "resultsDay2": ["3 - 2"],
+  "resultsDay3": ["0 - 3"],
   "losers": [
     ["KOI.png"],
-    [],
-    []
+    ["FNC.png"],
+    ["G2.png"]
   ]
 }
